@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    padding: 20px  20px;
+    font-weight: 700;
+    font-family: "Courier New", Courier, monospace;
+}
+
+img {
+    width: 33%;
+    height: 255px;
+
+}
+
+.makeGreen {
+    color: green;
+    font-size: 55px;
+
+}
+
+#makeBig {
+    font-size: 255px;
+}
+
+body {
+    background: yellow;
+}
